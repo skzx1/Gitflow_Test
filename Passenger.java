@@ -28,4 +28,8 @@ public class Passenger {
         public double getMoney() {
                 return money;
         }
+        // setters
+        public void setName(String name) {
+                this.name = name;
+        }
 }
